@@ -133,7 +133,7 @@ def visualize_denoising(model, loader, num_images=10):
 ### Training loss
 
 ## Original vs Noisy Vs Reconstructed Image
-Include a few sample images here.
+![Include a few sample images here.](https://github.com/SanAIML/DL-Autoencoder/blob/main/Screenshot%202026-03-16%20080303.png)
 
 ## RESULT
 The model is succesfully created
