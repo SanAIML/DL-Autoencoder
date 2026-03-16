@@ -128,7 +128,7 @@ def visualize_denoising(model, loader, num_images=10):
 ### OUTPUT
 
 ### Model Summary
-
+![image](https://github.com/SanAIML/DL-Autoencoder/blob/main/Screenshot%202026-03-16%20080323.png)
 
 ### Training loss
 ![image](https://github.com/SanAIML/DL-Autoencoder/blob/main/Screenshot%202026-03-16%20080311.png)
